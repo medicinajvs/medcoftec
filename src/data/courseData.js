@@ -11,9 +11,27 @@ export const courseData = [
         title: "Onboarding",
         imageUrl: "https://images.unsplash.com/photo-1517649763962-0c623066013b?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Onboarding - Apresentação QBank - Gustavo Boog", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1VUeh7LzPRuXXtU7Fr7Y7QaSBtFDDcBMT/view?usp=sharing" },
-          { id: 2, title: "Onboarding - Ettore", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1ltrHiu7CkFjBEu955-7xrTEzIqQrUcan/view?usp=sharing" },
-          { id: 3, title: "Onboardings - Matheus Meireles", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1ob1nrj5tCpAr8N02nwWOi3Wwc8r0dia6/view?usp=sharing" }
+          { 
+            id: 1,
+            title: "Onboarding - Apresentação QBank - Gustavo Boog",
+            duration: "00:00",
+            type: "aula",
+            videoLink: "https://drive.google.com/file/d/1PsLOtKROjSuBYn93X6AoBi7aYwvWxQFP/view?usp=sharing"
+          },
+          { 
+            id: 2,
+            title: "Onboarding - Ettore",
+            duration: "00:00",
+            type: "aula",
+            videoLink: "https://drive.google.com/file/d/10AGrdzc-g1gr6Cy_g952Ekmsn0pKOUYF/view?usp=sharing"
+          },
+          { 
+            id: 3,
+            title: "Onboardings - Matheus Meireles",
+            duration: "00:00",
+            type: "aula",
+            videoLink: "https://drive.google.com/file/d/12LQZ2UvaAJdaHsCTXqq0a2oTykxdl1-w/view?usp=sharing"
+          }
         ],
         materials: []
       }
@@ -33,7 +51,7 @@ export const courseData = [
         imageUrl: "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&q=80&w=400",
         lessons: [
           { id: 1, title: "Cardiomiopatia hipertrófica", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1SpHEd2jVqrkoBJyQMh4cjmbXQ4-rMmue/view?usp=sharing" },
-          { id: 2, title: "Cardiomiopatia hipertrófica_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1zj6iJJDoUAg7cpnbA32nh14tt1UhU_bB/view?usp=sharing" }
+          { id: 2, title: "Cardiomiopatia hipertrófica_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1N4yB9Yiz_k6CcXvYU4Hsk7Et2zafprni/view?usp=drive_link" }
         ],
         materials: [
           { title: "PDF de slides - Cardiomiopatia hipertrofica - TEC.pdf", pdfLink: "https://drive.google.com/file/d/137NDhp8rjsy2gmN--GIX4MUNf9_MQdnC/view?usp=sharing" }
@@ -45,8 +63,8 @@ export const courseData = [
         title: "Amiloidose cardíaca",
         imageUrl: "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Amiloidose cardíaca", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1aCKdPdV0b0ICwUJvJqrTT0LeBokZ8c9V/view?usp=sharing" },
-          { id: 2, title: "Amiloidose cardíaca_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1a46K2vpRbH9qWy2KLoy0_5DgBAP49YRq/view?usp=sharing" }
+          { id: 1, title: "Amiloidose cardíaca", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1tFTiTG6Vf07IrThqP-v6zJ-NGe1QsXTW/view?usp=sharing" },
+          { id: 2, title: "Amiloidose cardíaca_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1kiRmVxiGHewfO6PPSwJzKfw29OLthSpI/view?usp=sharing" }
         ],
         materials: [
           { title: "PDF de slides - Amiloidose cardiaca - TEC.pdf", pdfLink: "https://drive.google.com/file/d/1sR-34x9FKtXG2WT-m83UFFM9yPG9B1dj/view?usp=sharing" }
@@ -58,8 +76,8 @@ export const courseData = [
         title: "Cardiomiopatia arritmogênica e sarcoidose",
         imageUrl: "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Cardiomiopatia arritmogênica e sarcoidose", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1ZbaZQuWP0YjY6303BBskdzXa5DufMJQ1/view?usp=sharing" },
-          { id: 2, title: "Cardiomiopatia arritmogênica e sarcoidose_COFEEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1SYw7MpgVh-4Wus8Cl6cKCq3iTGeHlhFE/view?usp=sharing" }
+          { id: 1, title: "Cardiomiopatia arritmogênica e sarcoidose", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1nRkZh5yUlHIhsgps9mNyTaKJKL2M1_-d/view?usp=sharing" },
+          { id: 2, title: "Cardiomiopatia arritmogênica e sarcoidose_COFEEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1m_L0W6ly_UYX8KDurFaf9u7PzS1VFSel/view?usp=sharing" }
         ],
         materials: [
           { title: "PDF de slides - Cardiomiopatia arritmogenica e sarcoidose - TEC.pdf", pdfLink: "https://drive.google.com/file/d/1aBFUQ8eseWE1GxCfE04ZknyD9UauJwzx/view?usp=sharing" }
@@ -72,7 +90,7 @@ export const courseData = [
         imageUrl: "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&q=80&w=400",
         lessons: [
           { id: 1, title: "Miocárdio NC e Doença de Chagas", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1kXGTJNxa4b6RAQqalSve8S0qFAWXCnDw/view?usp=sharing" },
-          { id: 2, title: "Miocárdio NC e Doença de Chagas_COFEEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1PUl5-1khc1r3FlGWcrBY91hRjxHKt9mn/view?usp=sharing" }
+          { id: 2, title: "Miocárdio NC e Doença de Chagas_COFEEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1NumeKtP89pBuFg_zc3CESaQD6nKfMvR7/view?usp=drive_link" }
         ],
         materials: [
           { title: "PDF de slides - Miocardio NC e Doenca de Chagas - TEC.pdf", pdfLink: "https://drive.google.com/file/d/1laFzVD1nP63PPp8Y3JD3dtgTMXYJUcGg/view?usp=sharing" }
@@ -116,7 +134,7 @@ export const courseData = [
         imageUrl: "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&q=80&w=400",
         lessons: [
           { id: 1, title: "Pericardite - Diagnóstico e tratamento", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1-wN2nkv-Eq3XG21KK7UxTP2c6cpV-IDU/view?usp=sharing" },
-          { id: 2, title: "Pericardite - Diagnóstico e tratamento_COFEEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1D3uEUiyRuVrbbz7IxFEA5sQxysI8e5mO/view?usp=sharing" }
+          { id: 2, title: "Pericardite - Diagnóstico e tratamento_COFEEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1hFPHyt0FiYwOCYQ3mwgp7lXD-qOuigDF/view?usp=drive_link" }
         ],
         materials: [
           { title: "PDF de slides - Pericardite - Diagnostico e tratamento - TEC.pdf", pdfLink: "https://drive.google.com/file/d/1i3va43WK2drGB-IAylDLn7iwXDsnK3YZ/view?usp=sharing" }
@@ -293,7 +311,7 @@ export const courseData = [
         title: "Fibrilação e Flutter Atrial",
         imageUrl: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Fibrilação e Flutter Atrial", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/15z_F957lephxCUEAEn4fHFr5rOtiqOKP/view?usp=sharing" }
+          { id: 1, title: "Fibrilação e Flutter Atrial", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1AjdtSaHsXQ0ZvnEg8Fl-KANcAtnDP4B_/view?usp=drive_link" }
         ],
         materials: [
           { title: "PDF de slides - Fibrilacao e Flutter Atrial - TEC.pdf", pdfLink: "https://drive.google.com/file/d/1soMvXGZijaQ0vwnf1oAmy5Dl1LdI9g_Z/view?usp=sharing" }
@@ -327,7 +345,7 @@ export const courseData = [
         imageUrl: "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=400",
         lessons: [
           { id: 1, title: "Oclusão coronária aguda (infarto com supra)", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1YJzUJKamB8u_pFiEl5_VLzo1cWwYj1AJ/view?usp=sharing" },
-          { id: 2, title: "Oclusão coronária aguda (infarto com supra)_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1doz_aZaOW1x0847l6u6fByGMWmbP7ZPz/view?usp=sharing" }
+          { id: 2, title: "Oclusão coronária aguda (infarto com supra)_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/12s9G46K3GJOa76boaTi0A6NMAGdHTmm2/view?usp=drive_link" }
         ],
         materials: [
           { title: "PDF de slides - - Oclusao coronaria aguda (infarto com supra) - TEC.pdf", pdfLink: "https://drive.google.com/file/d/1ySY9vMbf5j11Pv_xjawfQa8wjfpYX8WE/view?usp=sharing" }
@@ -339,8 +357,8 @@ export const courseData = [
         title: "Ausência de oclusão coronária aguda (infarto sem supra)",
         imageUrl: "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Ausência de oclusão coronária aguda (infarto sem supra)", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/181YvFGCTFuktbHTN9oA1HpMP4QH-ozyU/view?usp=sharing" },
-          { id: 2, title: "Ausência de oclusão coronária aguda (infarto sem supra)_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/15rAQrIlGNPz2uoirwZNG57kmoBP3SWB6/view?usp=sharing" }
+          { id: 1, title: "Ausência de oclusão coronária aguda (infarto sem supra)", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1PNmuyZ4dc3h-Wv4YfKg5mvnvyldkcnR5/view?usp=sharing" },
+          { id: 2, title: "Ausência de oclusão coronária aguda (infarto sem supra)_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1PN9LCrUU1P4LetdJT3z50p6jX_gz1luJ/view?usp=sharing" }
         ],
         materials: [
           { title: "PDF de slides - Ausencia de oclusao coronaria aguda (infarto sem supra) - TEC.pdf", pdfLink: "https://drive.google.com/file/d/1HBCxegMSCRzrFYCkVNH-t6kDAiJit-rK/view?usp=sharing" }
@@ -352,8 +370,8 @@ export const courseData = [
         title: "Dor torácica",
         imageUrl: "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Dor torácica", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1jAr9ISNrYo4pdTZPF65g71e-yUX8c44S/view?usp=sharing" },
-          { id: 2, title: "Dor torácia_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1rYtvpHDvCaMqAeHdfjPbxHNzazTuNpxE/view?usp=sharing" }
+          { id: 1, title: "Dor torácica", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/15lKunxtbW7ISDq9JWsAT67PBpTRBZKhW/view?usp=sharing" },
+          { id: 2, title: "Dor torácia_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1Ojtre4E8j7UT7Mpljun1VDnntT25vRFx/view?usp=sharing" }
         ],
         materials: [
           { title: "PDF de slides - Dor toracica - TEC.pdf", pdfLink: "https://drive.google.com/file/d/1uxxTVptf8LkMSaqzO5aBF3wJ9Na38r6P/view?usp=sharing" }
@@ -366,7 +384,7 @@ export const courseData = [
         imageUrl: "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=400",
         lessons: [
           { id: 1, title: "ECG na SCA", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1cSqzanFgPpQlrAxjWErcFsfqUZ439LFg/view?usp=sharing" },
-          { id: 2, title: "ECG na SCA_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1gv3O6wUbxj7-DtcbsZPw00tKxYMK5sk3/view?usp=sharing" }
+          { id: 2, title: "ECG na SCA_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1CBv3z1Vj6_gA3RT0D_zFEa4gvZbdIxbR/view?usp=drive_link" }
         ],
         materials: [
           { title: "PDF de slides - ECG na SCA - TEC.pdf", pdfLink: "https://drive.google.com/file/d/1_luR2Zsb7HCE4naTLBGhdPYK2e-CcXHI/view?usp=sharing" }
@@ -523,7 +541,7 @@ export const courseData = [
         imageUrl: "https://images.unsplash.com/photo-1576091160550-21733e99dbb9?auto=format&fit=crop&q=80&w=400",
         lessons: [
           { id: 1, title: "Cardiologia em doenças clínicas", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1Vp7hWTe7KYpEoSQPfDiBTJd1Lm7e_zk4/view?usp=sharing" },
-          { id: 2, title: "Cardiologia em doenças clínicas_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1jWEwJ9shV1rN93aAuBdwJpue6GeyuZjD/view?usp=sharing" }
+          { id: 2, title: "Cardiologia em doenças clínicas_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1HT9-UPnYMEhTLwrKZSrdLvIg-cdPnRYD/view?usp=drive_link" }
         ],
         materials: [
           { title: "PDF de slides - Cardiologia em doenças clínicas - TEC.pdf", pdfLink: "https://drive.google.com/file/d/19l7-T0t3SR54l2iOuvSbrsH0mZIZysvm/view?usp=sharing" }
@@ -545,7 +563,7 @@ export const courseData = [
         imageUrl: "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=400",
         lessons: [
           { id: 1, title: "Doenças da Aorta", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/17ry4_yINNzYkDTvjTUo51nDRkSELui6O/view?usp=sharing" },
-          { id: 2, title: "Doencas da Aorta_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1QflS-bLHk5WqXlvV4Mz_eDWsU8Sp4WcO/view?usp=sharing" }
+          { id: 2, title: "Doencas da Aorta_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1yiU-lh7VTeV0e2UrDLB1Q3ZhEZgWq43S/view?usp=drive_link" }
         ],
         materials: [
           { title: "PDF de slides - Doenças da Aorta - TEC.pdf", pdfLink: "https://drive.google.com/file/d/18wwpm33wqwBXqQ8YzUkdepNXvEjJjtTO/view?usp=sharing" }
@@ -566,7 +584,7 @@ export const courseData = [
         title: "Perioperatório",
         imageUrl: "https://images.unsplash.com/photo-1517649763962-0c623066013b?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Perioperatório", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1pLiorKpF1KKPYPScTvi6a6HwMmM6M596/view?usp=sharing" },
+          { id: 1, title: "Perioperatório", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1tg0XGfblgsvBMaevb5W0QJ_dyl7TPMGy/view?usp=drive_link" },
           { id: 2, title: "Perioperatório_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1cZFeL2LVQ4H5UD44NV4--rgqgA6zLnb7/view?usp=sharing" }
         ],
         materials: [
@@ -588,8 +606,8 @@ export const courseData = [
         title: "Principais terapias associadas à cardiotoxicidade",
         imageUrl: "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Principais terapias associadas à cardiotoxicidade", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/12DxLBYqUx07CfqnJYYVh2WsRsQCYaHKa/view?usp=sharing" },
-          { id: 2, title: "Principais terapias associadas à cardiotoxicidade_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1J10897U4HlHam5tBMyzNMGNu7CmqlJqy/view?usp=sharing" }
+          { id: 1, title: "Principais terapias associadas à cardiotoxicidade", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1ytvT3b_b4eGGsHqdvGcT6wGBlcNnmH14/view?usp=sharing" },
+          { id: 2, title: "Principais terapias associadas à cardiotoxicidade_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1Gy8qS0-Rnuiw-_7uBrRkGAmV0DOmLiPz/view?usp=sharing" }
         ],
         materials: [
           { title: "PDF de slides -  Principais terapias associadas à cardiotoxicidade - TEC.pdf", pdfLink: "https://drive.google.com/file/d/1EOCcxd7iTw4nnpn4VqZ3uageaxDcBVtw/view?usp=sharing" }
@@ -602,7 +620,7 @@ export const courseData = [
         imageUrl: "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&q=80&w=400",
         lessons: [
           { id: 1, title: "Cardio-oncologia definições e fatores de risco", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1AwK8s90gHlVHhZyvxuALOwf-KSwwRRoC/view?usp=sharing" },
-          { id: 2, title: "Cardio-oncologia definições e fatores de risco_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1x8zA4u3_c_vHVZHBAjKBkgyPe5nODWEh/view?usp=sharing" }
+          { id: 2, title: "Cardio-oncologia definições e fatores de risco_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1VPva052eJnkHAGiuNEDvPZuVyaIlb_00/view?usp=drive_link" }
         ],
         materials: [
           { title: "PDF de slides - Cardio-oncologia_ definições e fatores de risco - TEC.pdf", pdfLink: "https://drive.google.com/file/d/13AKyNaH0K9RgtIHm5WKjWVR1gOYftfFV/view?usp=sharing" }
@@ -649,8 +667,8 @@ export const courseData = [
         title: "Manifestações genéticas",
         imageUrl: "https://images.unsplash.com/photo-1579684453423-f84349ca60df?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Manifestações genéticas", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1EfAC-8XM7tsDY9qjp6gAmrCruh6YlmlX/view?usp=sharing" },
-          { id: 2, title: "Manifestações genéticas_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1YDyVcbTVuM8TWBlKKHxdfR79_km_LVyo/view?usp=sharing" }
+          { id: 1, title: "Manifestações genéticas", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1HEIpXA3kvG1jtVCoreql6AlcLrCrQN8C/view?usp=sharing" },
+          { id: 2, title: "Manifestações genéticas_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/19wJQcH-mFQKcH2nXMu4a2xa0uggY1xkO/view?usp=sharing" }
         ],
         materials: [
           { title: "PDF de slides - Manifestações genéticas - TEC.pdf", pdfLink: "https://drive.google.com/file/d/1OivTSnqkk51gYJ6_2jXjsqPRCOTUzov3/view?usp=sharing" }
@@ -671,8 +689,8 @@ export const courseData = [
         title: "Cardiometabolismo da mulher e gestação",
         imageUrl: "https://images.unsplash.com/photo-1551076805-e1869033e561?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Cardiometabolismo da mulher e gestação", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1QXDHsaZLmipLRN4cDaXZmaoaCxMM64aJ/view?usp=sharing" },
-          { id: 2, title: "Cardiometabolismo da mulher e gestação_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1HunwnsCutgKIT_pt1tjP0h7RZagG-x8K/view?usp=sharing" }
+          { id: 1, title: "Cardiometabolismo da mulher e gestação", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1pXhhi-UNdkHmIw4HbOowzz2f4_Ql-TEE/view?usp=sharing" },
+          { id: 2, title: "Cardiometabolismo da mulher e gestação_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1g5iP55IkMEdL3aXLUr00FjHyCOEUWxZH/view?usp=sharing" }
         ],
         materials: [
           { title: "PDF de slides - Cardiometabolismo da mulher e gestação  - TEC.pdf", pdfLink: "https://drive.google.com/file/d/1fxBqdP4Tdcgztw0XOI2TMOK5sMQX7mRU/view?usp=sharing" }
@@ -693,7 +711,7 @@ export const courseData = [
         title: "Noções básicas de Reabilitação Cardíaca",
         imageUrl: "https://images.unsplash.com/photo-1517649763962-0c623066013b?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Noções básicas de Reabilitação Cardíaca", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1STdR_5Y1UVsXwwArjVJjFB0z1CNMIOu9/view?usp=sharing" },
+          { id: 1, title: "Noções básicas de Reabilitação Cardíaca", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1jlOsaAfL6nyyyAPH34e4wyP_doqO2P2f/view?usp=drive_link" },
           { id: 2, title: "Noções básicas de Reabilitação Cardíaca_COFEXPRESS", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1vM-2zwRdzKL6-tF35ubz10wDQw5OZnZD/view?usp=sharing" }
         ],
         materials: [
@@ -706,7 +724,7 @@ export const courseData = [
         title: "Noções de Cardiologia do Esporte",
         imageUrl: "https://images.unsplash.com/photo-1517649763962-0c623066013b?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Noções de Cardiologia do Esporte", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1TR73JVlxhDdTaV6LgnePWUJKEMiaEd4F/view?usp=sharing" },
+          { id: 1, title: "Noções de Cardiologia do Esporte", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1eiUM6qLje4oIn0vDVL3dbf3vy9-KWbrf/view?usp=drive_link" },
           { id: 2, title: "Noções de Cardiologia do Esporte_COFEXPRESS- ", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1wGy9Q3VL1GhIgCDlirH_X_is0ZgI7jf_/view?usp=sharing" }
         ],
         materials: [
