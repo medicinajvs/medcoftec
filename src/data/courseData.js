@@ -14,8 +14,7 @@ export const courseData = [
           { id: 1, title: "Aula 01 - Onboarding: Nossa História e Método", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1PrcFCOdFZI1Q3wTzfxmZV0KfIsiKAOit/view?usp=sharing" },
           { id: 2, title: "Aula 02 - Onboarding: Apresentação da Plataforma Medcof Plus", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1rm_Vp2V7-ySock9ES7M9kRnXKa1niVIV/view?usp=sharing" },
           { id: 3, title: "Aula 03 - Onboarding: Apresentação QBank", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1mC5OEeUus_nxys6ZNTArrLT_eOrHL9PF/view?usp=sharing" },
-          { id: 3, title: "Aula 04 - Onboarding: Apresentação TEC", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/12LQZ2UvaAJdaHsCTXqq0a2oTykxdl1-w/view?usp=sharing"
-          }
+          { id: 3, title: "Aula 04 - Onboarding: Apresentação TEC", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/12LQZ2UvaAJdaHsCTXqq0a2oTykxdl1-w/view?usp=sharing" }
         ],
         materials: []
       }
