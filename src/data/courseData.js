@@ -1,4 +1,4 @@
-export const courseData_New_Full = [
+export const courseData = [
   // --- MÓDULO 1: ONBOARDING ---
   {
     id: 1,
