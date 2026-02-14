@@ -741,8 +741,8 @@ export const courseData = [
         title: "Estenose Aórtica",
         imageUrl: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Aula 01 - Estenose Aórtica", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1jij7QiauVL_i_vE8jsWHvGxAruJc0hBz/view?usp=sharing" },
-          { id: 2, title: "Aula 02 - CofExpress: Estenose Aórtica", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1vBl4Nhi_N2Kaw6WUtGf4mSmekdzSFvEa/view?usp=sharing" }
+          { id: 1, title: "Aula 01 - Estenose Aórtica", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1jSHz7okFi2IM5dBAzbJN3nqDah4b-9He/view?usp=sharing" },
+          { id: 2, title: "Aula 02 - CofExpress: Estenose Aórtica", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/12A8HZeju7P_RxKfh3eUpYnd-qHZe3jrm/view?usp=sharing" }
         ],
         materials: [
           { title: "PDF de Slides - Estenose Aórtica", pdfLink: "https://drive.google.com/file/d/1NkboAuFFH1GIPzZqvvfVqSwL-lrqQqqH/view?usp=sharing" }
@@ -755,7 +755,7 @@ export const courseData = [
         imageUrl: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&q=80&w=400",
         lessons: [
           { id: 1, title: "Aula 01 - Insuficiência Aórtica Crônica", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1WdK0ondmcPu19xIg4jDBV0Dv0-ScS9dk/view?usp=sharing" },
-          { id: 2, title: "Aula 02 - CofExpress: Insuficiência Aórtica Crônica", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1_axMbhsValhCz_077sgBd-53EgQb-JwF/view?usp=sharing" }
+          { id: 2, title: "Aula 02 - CofExpress: Insuficiência Aórtica Crônica", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1AzhHuXoQR2OzBfLiCMftexpuUbg5Y2z5/view?usp=sharing" }
         ],
         materials: [
           { title: "PDF de Slides - Insuficiência Aórtica", pdfLink: "https://drive.google.com/file/d/1ZWhTxvKS5HU2N8y6aMxbFQgj8Mrsj33r/view?usp=sharing" }
@@ -780,7 +780,7 @@ export const courseData = [
         title: "Anticoagulação em valvopatias",
         imageUrl: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Aula 01 - Anticoagulação em Valvopatias", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1ddb9tbpQ65fsdrlpA08neFpuoNzCUzOE/view?usp=sharing" },
+          { id: 1, title: "Aula 01 - Anticoagulação em Valvopatias", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1N53N9npdDXwgLdey_EdN6sjqbrPWu4DG/view?usp=sharing" },
           { id: 2, title: "Aula 02 - HitExpress: Anticoagulação em Valvopatias", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/13hy9jJAGtUDMAsFAWmqc3CbN2QA88uhP/view?usp=sharing" }
         ],
         materials: [
@@ -802,8 +802,8 @@ export const courseData = [
         title: "Endocardite Infecciosa",
         imageUrl: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Aula 01 - Endocardite Infecciosa", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1OD89gsHgBz5j_TZYwMAz7WWU-cR1EgkA/view?usp=sharing" },
-          { id: 2, title: "Aula 02 - CofExpress: Endocardite Infecciosa", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1ixN8paqyFORCetO6v4qXrc_K81cz5i6I/view?usp=sharing" }
+          { id: 1, title: "Aula 01 - Endocardite Infecciosa", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1Ol0DMTqzseknWLj_zIcojZFwEDbyynw0/view?usp=sharing" },
+          { id: 2, title: "Aula 02 - CofExpress: Endocardite Infecciosa", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1TegAz1YuNTw1W00pNLV1H64sFEUmQh1S/view?usp=sharing" }
         ],
         materials: [
           { title: "PDF de Slides - Endocardite Infecciosa", pdfLink: "https://drive.google.com/file/d/1jHm8zBSQMtkFpL-uk-7pT826RaDyLkt5/view?usp=sharing" }
@@ -824,7 +824,7 @@ export const courseData = [
         title: "Febre Reumática",
         imageUrl: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&q=80&w=400",
         lessons: [
-          { id: 1, title: "Aula 01 - Febre Reumática", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1Kmq1nvm3fkaKKs3h8anmTQq_uVqsGHNX/view?usp=sharing" },
+          { id: 1, title: "Aula 01 - Febre Reumática", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/11YKZNGE2k4dmBjGl859FD8fTlptj9hoV/view?usp=sharing" },
           { id: 2, title: "Aula 02 - HitExpress: Febre Reumática", duration: "00:00", type: "aula", videoLink: "https://drive.google.com/file/d/1ycziC2uni5PjUu5JctlqjOXs1ABlouqX/view?usp=sharing" }
         ],
         materials: [
